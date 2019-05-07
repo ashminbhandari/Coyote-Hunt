@@ -1,0 +1,18 @@
+Create a txt file with integers separated by spaces.
+
+Integer values at 		Description
+1				Turn debuggin on/off
+2 				m dimension of the grid
+3				n dimension of the grid
+4				Integer that the road-runner will be displayed as. 
+5				Integer that the coyote will be displayed as.
+6				Integer that the agent will be displayed as.
+7				Simulation speed
+8				The breeding time for the coyote. How many timesteps?
+9				The breedimg time for the road-runner. How many timesteps?
+10				Coyote's hunger tolerance
+
+
+Run:
+javac simulation.java
+java simulation
