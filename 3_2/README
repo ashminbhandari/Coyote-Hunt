@@ -1,7 +1,7 @@
 Create a txt file with integers separated by spaces.
 
 Integer values at 		Description
-1				Turn debuggin on/off
+1				Turn debugging on/off
 2 				m dimension of the grid
 3				n dimension of the grid
 4				Integer that the road-runner will be displayed as. 
